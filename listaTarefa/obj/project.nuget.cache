@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DprzdIADHw7B1mWsB80qcvczIgvMy2o3iX5Uk4CjvuF2ncm79ahckXZDaQl2Q1MnhB+vvxaIOpMka8QCIwHy3w==",
+  "success": true,
+  "projectFilePath": "/home/hadassa/Documentos/exercicios-c#/listaTarefa/listaTarefa.csproj",
+  "expectedPackageFiles": [
+    "/home/hadassa/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

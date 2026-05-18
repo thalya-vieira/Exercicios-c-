@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "listaTarefa/1.0.0": {
+        "runtime": {
+          "listaTarefa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "listaTarefa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

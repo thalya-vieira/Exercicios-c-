@@ -1,0 +1,15 @@
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/bin/Debug/net8.0/listaTarefa
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/bin/Debug/net8.0/listaTarefa.deps.json
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/bin/Debug/net8.0/listaTarefa.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/bin/Debug/net8.0/listaTarefa.dll
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/bin/Debug/net8.0/listaTarefa.pdb
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/obj/Debug/net8.0/listaTarefa.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/obj/Debug/net8.0/listaTarefa.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/obj/Debug/net8.0/listaTarefa.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/obj/Debug/net8.0/listaTarefa.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/obj/Debug/net8.0/listaTarefa.sourcelink.json
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/obj/Debug/net8.0/listaTarefa.dll
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/obj/Debug/net8.0/refint/listaTarefa.dll
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/obj/Debug/net8.0/listaTarefa.pdb
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/obj/Debug/net8.0/listaTarefa.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/listaTarefa/obj/Debug/net8.0/ref/listaTarefa.dll
